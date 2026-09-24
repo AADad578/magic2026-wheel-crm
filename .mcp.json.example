@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "chrono-rag": {
+      "command": "C:\\Users\\avani\\miniforge3\\envs\\chrono-rag\\Scripts\\chrono-rag-mcp.exe",
+      "env": {
+        "CHRONO_RAG_INDEX": "C:\\Users\\avani\\OneDrive\\Documents\\MAGIC2026\\chrono-rag\\index",
+        "CHRONO_RAG_LLM_PROVIDER": "local",
+        "CHRONO_RAG_LLM_BASE_URL": "http://localhost:11434/v1",
+        "CHRONO_RAG_LLM_MODEL": "qwen2.5-coder:7b"
+      }
+    }
+  }
+}
